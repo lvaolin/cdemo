@@ -19,18 +19,18 @@ int main(void)
         return -1;
     }
 
-    //获取当前的线程栈大小
-    ret = pthread_attr_getstacksize(&attr, &stack_size);
+    stack_size = 1024*20; //堆栈大小设置为20K
+    ret = pthread_attr_setstacksize(&attr, stack_size);//设置线程堆栈大小
     if(ret != 0)
     {
         perror("pthread_attr_getstacksize");
         return -1;
     }
 
+    stack_size = 0;
+    ret = pthread_attr_getstacksize(&attr, &stack_size);//获取线程堆栈大小
     //打印堆栈值
     printf("stack_size = %dB, %dk\n", stack_size, stack_size/1024);
-
-
 
     return 0;
 }
