@@ -1,3 +1,3 @@
-C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/c_study.dir
-C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/code_github/c/cdemo/c_study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code_github/c/cdemo/c_study/cmake-build-debug/CMakeFiles/c_study.dir
+C:/code_github/c/cdemo/c_study/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/code_github/CLionProjects/c_study/cmake-build-debug"/>
+				<Option working_dir="C:/code_github/c/cdemo/c_study/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/code_github/CLionProjects/c_study/cmake-build-debug"/>
+				<Option working_dir="C:/code_github/c/cdemo/c_study/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c_study">
-				<Option output="C:/code_github/CLionProjects/c_study/cmake-build-debug/c_study.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/code_github/CLionProjects/c_study/cmake-build-debug"/>
+				<Option output="C:/code_github/c/cdemo/c_study/cmake-build-debug/c_study.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/code_github/c/cdemo/c_study/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -39,15 +39,15 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_study"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_study"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c_study/fast">
-				<Option output="C:/code_github/CLionProjects/c_study/cmake-build-debug/c_study.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/code_github/CLionProjects/c_study/cmake-build-debug"/>
+				<Option output="C:/code_github/c/cdemo/c_study/cmake-build-debug/c_study.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/code_github/c/cdemo/c_study/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -57,36 +57,27 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_study/fast"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_study/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/code_github/CLionProjects/c_study/cmake-build-debug"/>
+				<Option working_dir="C:/code_github/c/cdemo/c_study/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/CLionProjects/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/code_github/c/cdemo/c_study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/code_github/CLionProjects/c_study/Demo1_1.c">
+		<Unit filename="C:/code_github/c/cdemo/c_study/pthreadDemo.c">
 			<Option target="c_study"/>
 		</Unit>
-		<Unit filename="C:/code_github/CLionProjects/c_study/Demo1_2.c">
-			<Option target="c_study"/>
-		</Unit>
-		<Unit filename="C:/code_github/CLionProjects/c_study/Demo1_3.c">
-			<Option target="c_study"/>
-		</Unit>
-		<Unit filename="C:/code_github/CLionProjects/c_study/main.c">
-			<Option target="c_study"/>
-		</Unit>
-		<Unit filename="C:/code_github/CLionProjects/c_study/CMakeLists.txt">
+		<Unit filename="C:/code_github/c/cdemo/c_study/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -4,10 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/code_github/CLionProjects/c_study/Demo1_1.c" "C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/c_study.dir/Demo1_1.c.obj"
-  "C:/code_github/CLionProjects/c_study/Demo1_2.c" "C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/c_study.dir/Demo1_2.c.obj"
-  "C:/code_github/CLionProjects/c_study/Demo1_3.c" "C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/c_study.dir/Demo1_3.c.obj"
-  "C:/code_github/CLionProjects/c_study/main.c" "C:/code_github/CLionProjects/c_study/cmake-build-debug/CMakeFiles/c_study.dir/main.c.obj"
+  "C:/code_github/c/cdemo/c_study/pthreadDemo.c" "C:/code_github/c/cdemo/c_study/cmake-build-debug/CMakeFiles/c_study.dir/pthreadDemo.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

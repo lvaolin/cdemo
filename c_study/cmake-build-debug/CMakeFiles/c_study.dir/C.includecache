@@ -6,17 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/code_github/CLionProjects/c_study/Demo1_1.c
+C:/code_github/c/cdemo/c_study/pthreadDemo.c
 stdio.h
 -
-
-C:/code_github/CLionProjects/c_study/Demo1_2.c
-stdio.h
+stdlib.h
 -
-
-C:/code_github/CLionProjects/c_study/Demo1_3.c
-
-C:/code_github/CLionProjects/c_study/main.c
-stdio.h
+pthread.h
 -
 

@@ -1,11 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/c_study.dir/main.c.obj"
-  "CMakeFiles/c_study.dir/Demo1_1.c.obj"
-  "CMakeFiles/c_study.dir/Demo1_2.c.obj"
-  "CMakeFiles/c_study.dir/Demo1_3.c.obj"
-  "c_study.pdb"
+  "CMakeFiles/c_study.dir/pthreadDemo.c.obj"
   "c_study.exe"
   "c_study.exe.manifest"
+  "c_study.pdb"
   "libc_study.dll.a"
 )
 
