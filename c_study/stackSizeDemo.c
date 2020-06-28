@@ -1,5 +1,6 @@
 //
 // Created by 41490 on 2020/6/28.
+//线程栈默认大小 8M
 //
 
 #include <stdio.h>

@@ -1,5 +1,6 @@
 //
 // Created by 41490 on 2020/6/28.
+//修改默认线程栈的大小
 //
 
 #include <stdio.h>

@@ -12,6 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c97279-2abd-43ef-8c39-c50d72549af3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setStackSize.c" beforeDir="false" afterPath="$PROJECT_DIR$/setStackSize.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stackSizeDemo.c" beforeDir="false" afterPath="$PROJECT_DIR$/stackSizeDemo.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +75,7 @@
       <workItem from="1580310011911" duration="4859000" />
       <workItem from="1580347725940" duration="3345000" />
       <workItem from="1593255032651" duration="740000" />
-      <workItem from="1593349597210" duration="3765000" />
+      <workItem from="1593349597210" duration="3955000" />
     </task>
     <servers />
   </component>
@@ -98,21 +100,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593350879048" />
-    <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1593350370307">
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom" timestamp="1593355323688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593350370307" />
-    <state width="1237" height="122" key="GridCell.Tab.0.center" timestamp="1593350370307">
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593355323688" />
+    <state width="1237" height="122" key="GridCell.Tab.0.center" timestamp="1593355323688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593350370307" />
-    <state width="1237" height="122" key="GridCell.Tab.0.left" timestamp="1593350370307">
+    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593355323688" />
+    <state width="1237" height="122" key="GridCell.Tab.0.left" timestamp="1593355323688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593350370307" />
-    <state width="1237" height="122" key="GridCell.Tab.0.right" timestamp="1593350370307">
+    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593355323688" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right" timestamp="1593355323688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593350370307" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593355323688" />
   </component>
 </project>
